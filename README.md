@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jrpatra915" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jrpatra915" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jyotiranjan gangadhar patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyotiranjan gangadhar patra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jyotiranjan-gangadhar-patra-03995423a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyotiranjan gangadhar patra" height="30" width="40" /></a>
 <a href="https://instagram.com/_jrpatra_._915_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jrpatra_._915_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jyotiranjan706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyotiranjan706" height="30" width="40" /></a>
 </p>
