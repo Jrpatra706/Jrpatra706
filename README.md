@@ -17,7 +17,7 @@
 <a href="https://www.leetcode.com/jyotiranjan706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyotiranjan706" height="30" width="40" /></a>
 </p>
 
-
+# 💻 <span style="color: #8c52ff;">Tech Stack: </span>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrpatra706&show_icons=true&locale=en&layout=compact" alt="jrpatra706" /></p>
