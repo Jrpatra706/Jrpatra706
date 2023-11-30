@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Password Generator<br>🤝 I’m looking for help with Frontend development Jobs  <br>🌱 I’m currently learning React Js<br>📫 How to reach me jrpatra915@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/17CNOlqPkG9HyPiI4ga8LND7OlUgmAPrf/view?usp=sharing<br>
+🔭 I’m currently working on Netflix Clone <br>🤝 I’m looking for help with Frontend development Jobs  <br>🌱 I’m currently learning React Js<br>📫 How to reach me jrpatra915@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/17CNOlqPkG9HyPiI4ga8LND7OlUgmAPrf/view?usp=sharing<br>
 
 ## 🌐 Socials:
 <p align="left">
