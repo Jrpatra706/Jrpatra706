@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jyotiranjan Patra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
----
 [![](https://visitcount.itsvg.in/api?id=jrpatra706&icon=2&color=9)](https://visitcount.itsvg.in)
 
 🔭 I’m currently working on Netflix Clone <br>🤝 I’m looking for help with Frontend development Jobs  <br>🌱 I’m currently learning React Js<br>📫 How to reach me jrpatra915@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/17CNOlqPkG9HyPiI4ga8LND7OlUgmAPrf/view?usp=sharing<br>
