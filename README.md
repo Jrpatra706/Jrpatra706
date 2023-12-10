@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=jrpatra706&icon=2&color=9)](https://visitcount.itsvg.in)
 
-🔭 I’m currently working on Netflix Clone <br>🤝 I’m looking for help with Frontend development Jobs  <br>🌱 I’m currently learning React Js<br>📫 How to reach me jrpatra915@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/17CNOlqPkG9HyPiI4ga8LND7OlUgmAPrf/view?usp=sharing<br>
+🔭 I’m currently working on Netflix Clone <br>🤝 I’m looking for help with Frontend development Jobs  <br>🌱 I’m currently learning React Js<br>📫 How to reach me jrpatra915@gmail.com<br>📄 my CV https://drive.google.com/file/d/1zP6gRchjWkM3DPbau7XHMfHRmD9isoD-/view?usp=sharing<br>
 
 ## 🌐 Socials:
 <p align="left">
